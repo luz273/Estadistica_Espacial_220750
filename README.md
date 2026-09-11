@@ -1,1 +1,4 @@
-# Estadistica_Espacial_220750
+# Estadistica_Espacial
+LUZ MERY RPDRIGUEZ YUCRA                         
+CODIGO : 220750
+
