@@ -1,4 +1,4 @@
-<img width="1918" height="1053" alt="Captura de pantalla 2026-09-11 200315" src="https://github.com/user-attachments/assets/494c7ffc-e51f-49ae-8e95-409dae498ffe" /># Estadistica_Espacial
+# Estadistica_Espacial
 LUZ MERY RODRIGUEZ YUCRA                         
 CODIGO : 220750
 
